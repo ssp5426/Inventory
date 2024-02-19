@@ -1,0 +1,18 @@
+body {
+                background: #ffffff;
+                font-family: "Lucida Console", "Courier New", monospace;
+            }
+            
+figure {width:20%;
+             background:white;;
+            }
+            
+img {width:300%;}
+            
+            
+section
+{
+            background: #3f6999;
+            width:90%;
+            margin:auto;
+}
